@@ -1,0 +1,100 @@
+body {
+    overflow-x: hidden;
+}
+
+/* HEADER */
+
+.my-menu li a {
+    font-size: 16px;
+}
+
+.my-menu li a.link-active {
+    color: #95AE36;
+    font-weight: 600;
+}
+
+header {
+    margin-top: 33px;
+}
+
+.my-account-name {
+    font-size: 16px;
+    text-decoration: none;
+    color: #2a2a2a;
+}
+
+/* FORM */
+
+.sign-in {
+    margin-top: 170px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.sign-in {
+    height: 100vh;
+}
+
+.subtitle-text {
+    font-size: 14px;
+    text-align: center;
+}
+
+.form-control {
+    height: 57px;
+    border: 1px solid rgba(119, 119, 119, 0.418);
+    border-radius: 15px;
+    padding: 0.375rem 20px;
+}
+
+::placeholder {
+    color: #ABABAB;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.form-component {
+    margin-top: 81px;
+}
+.form-group small {
+    font-size: 12px;
+    color: #717171;  
+}
+
+.form-group small.f-fp a {
+    text-decoration: none;
+    color: #5B7207;
+    font-weight: 500;
+}
+
+button.btn {
+    border-radius: 15px;
+    width: 100%;
+    padding: 12px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #95AE36;
+    border-color: #95AE36;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #5B7207;
+    border-color: #5B7207;
+}
+
+small.regis-link {
+    font-size: 12px;
+}
+.regis-link a {
+    text-decoration: none;
+    color: #5B7207;
+    font-weight: 500;
+}
