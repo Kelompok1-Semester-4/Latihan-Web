@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Latihan-Web/static/css/main.9f36ac80.css",
+    "main.js": "/Latihan-Web/static/js/main.c854cf68.js",
+    "index.html": "/Latihan-Web/index.html",
+    "main.9f36ac80.css.map": "/Latihan-Web/static/css/main.9f36ac80.css.map",
+    "main.c854cf68.js.map": "/Latihan-Web/static/js/main.c854cf68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f36ac80.css",
+    "static/js/main.c854cf68.js"
+  ]
+}
